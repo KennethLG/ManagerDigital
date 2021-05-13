@@ -67,7 +67,7 @@ export const UsersTable = () => {
         <Table aria-label="customized table">
           <TableHead>
             <TableRow>
-              <StyledTableCell> Username </StyledTableCell>
+              <StyledTableCell> Name </StyledTableCell>
               <StyledTableCell align="right"> Identification card </StyledTableCell>
               <StyledTableCell align="right"> Phone </StyledTableCell>
               <StyledTableCell align="right"> Adress </StyledTableCell>

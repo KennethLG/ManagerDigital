@@ -6,7 +6,7 @@ export const Bar = () => {
     <AppBar>
       <Toolbar>
         <Typography component="h1" variant="h6" color="inherit" noWrap>
-          Manager Digital Users
+          Manager Digital Employees
         </Typography>
       </Toolbar>
     </AppBar>
