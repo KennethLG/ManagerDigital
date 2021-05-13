@@ -10,5 +10,14 @@ export const useStyles = makeStyles((theme) => ({
   },
   button: {
     margin: "16px 0"
+  },
+  margin: {
+    margin: theme.spacing(1),
+  },
+  title: {
+    margin: "8px 0",
+    padding: "8px 0",
+    fontSize: "24px",
+    textAlign: "center"
   }
 }));
